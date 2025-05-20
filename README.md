@@ -5,23 +5,23 @@ This document should serve as a good starter guide with all the links and inform
     Python Version: 3.10 and above
     Dependencies:   requirements.txt
 
-## Understandin Directories
+## Understanding Directories
 ```
 In this Github, you will find 2 directories:
         Final Implementation:
             This is the final iteration of our setup, which is in the Cam_setup directory.
     
-            You will first have to create an python env with the requirement.txt file and run the main.py to execute.
-            Assuming that you have the robots in their desired locations and connected to the iperlab router. This will be explained in detail
+            You will first have to create a python env with the requirement.txt file and run the main.py to execute.
+            Assuming that you have the robots in their desired locations and connected to the IperLab router. This will be explained in detail.
     
             The runs directory contains the checkpoints of our trained YOLO models from our first iteration.
     
         Gemini integration: 
             This directory contains the files of the failed iteration with VLM.
-            Of the files the gemini.py file is the VLM implementation, the other files involved are trying to read form the json file that comes out of the gemini.py file to then run the robots. 
-            But this was scrapped as the API failed in getting accurate values. 
+            Of the files the gemini.py file is the VLM implementation, the other files involved are trying to read from the JSON file that comes out of the gemini.py file to then run the robots. 
+            However, this was scrapped as the API failed in obtaining accurate values. 
     
-        IF you want to try out any of our previous implementations here is a link to a google drive:
+        If you want to try out any of our previous implementations here is a link to a google drive:
             https://drive.google.com/drive/folders/1l53dQ7XxlGnE1Ck7UV8uKxWXS6jhsTwl?usp=sharing
 ```
 
@@ -46,14 +46,14 @@ Studio2.0-LegoCAD:    Use this to generate the LDR file for reading the instruct
 
 **NOTE:** You should find the position markings on the table itself, if you get confused by the markings since there are multiple, there should be a set of papers connected by masking tape lying around somewhere in the lab that we used for an event, which is the exact one used in the image above. 
 
-This current setup involves, using 2 arms the 102 for movement and 101 for computer vision
-Before you continue, make sure these are positioned exactly with in the boxes of the table as shown in the image with 102 facing towad you and 101 facing toward the workspace. \
+This current setup involves, using 2 arms: the 102 arm for movement and 101 for computer vision.
+Before you continue, make sure these are positioned exactly within the boxes of the table as shown in the image with 102 facing toward you and 101 facing toward the workspace. \
 
-Also You will need to connect both the robots to the router available in the lab via ethernet, and you may also connect your computer via ether net to the router or simply connect to the iperlab router wifi to interact with the robots. 
+Also, you will need to connect both the robots to the router available in the lab via ethernet, and you may also connect your computer via ethernet to the router or simply connect to the IperLab router wifi to interact with the robots. 
 
 ## Running the program
 
-Once you have your python env setup, that is hopefully you have already run the:
+Once you have your Python env setup, that is hopefully you have already run the:
 ```
     pip install -r requirements.txt
 ```
@@ -75,11 +75,11 @@ inside the Cam_setup directory should go through and run the program, provided t
 One thing to note,\
     Everytime you call the movement function for any arm, the entire process stops until the arm has been moved to that position
 ### Main.py
-Runs through all the initializations, as in intialize the robots, and the motors, with generating and reading the instructions form the ldr file for the lego instrucitons and finally iniialize the SharedData whcih stores the state variables for the machines. After which it starts the multithreading for the movment arm 102, and camera arm 101.
-While initializing the sharedData, a call to the assemble.py file's set pick obj is done. Where the index is set to the class number of the next object to be picked read from the ldr file. 
+Runs through all the initializations, as in initialize the robots, and the motors, with generating and reading the instructions from the LDR file for the lego instrucitons and finally initialize the SharedData which stores the state variables for the machines. After which it starts the multithreading for the movement arm 102, and camera arm 101.
+While initializing the sharedData, a call to the assemble.py file's set pick obj is done. Where the index is set to the class number of the next object to be picked read from the LDR file. 
 
 ### Niryo_Vision.py
-Once the initializations sequnece is setup the execution moves to the niryo_vision.py file, where you are introduced to the vision(ned2,share) function. Here ned2 will be 101 arm which was initialized in the main.py file, 
+Once the initialization sequence is done, the execution moves to the niryo_vision.py file, where you are introduced to the vision(ned2,share) function. Here ned2 will be 101 arm which was initialized in the main.py file, 
 and you are also introduced to the 
     share.update; this is the state variable that ensures that the camera captures when the arm is done moving and no multithreading issues occur.
 Then in the loop, it sends the images captured through the fisheye lens, undistorts them and sends the image to the YOLO world model. 
