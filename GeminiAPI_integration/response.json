@@ -1,0 +1,50 @@
+{
+    "pieces": [
+        {
+            "quantity": 1,
+            "description": "black round plate with four studs"
+        },
+        {
+            "quantity": 2,
+            "description": "brown 2x2 brick"
+        },
+        {
+            "quantity": 1,
+            "description": "brown 4x4 tile with grid pattern"
+        }
+    ],
+    "placements": [
+        {
+            "piece": "brown 2x2 brick",
+            "position": {
+                "x": 2,
+                "y": 1,
+                "z": 1
+            }
+        },
+        {
+            "piece": "black round plate with four studs",
+            "position": {
+                "x": 1,
+                "y": 1,
+                "z": 0
+            }
+        },
+        {
+            "piece": "brown 2x2 brick",
+            "position": {
+                "x": 2,
+                "y": 1,
+                "z": 2
+            }
+        },
+        {
+            "piece": "brown 4x4 tile with grid pattern",
+            "position": {
+                "x": 1,
+                "y": 1,
+                "z": 3
+            }
+        }
+    ]
+}

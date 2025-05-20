@@ -1,0 +1,672 @@
+{
+    "3033": {
+        "part_num": "3033",
+        "name": "Plate 6 x 10",
+        "part_cat_id": 14,
+        "year_from": 1971,
+        "year_to": 2025,
+        "part_url": "https://rebrickable.com/parts/3033/plate-6-x-10/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4211114.jpg",
+        "prints": [],
+        "molds": [],
+        "alternates": [],
+        "external_ids": {
+            "BrickLink": [
+                "3033"
+            ],
+            "BrickOwl": [
+                "366027"
+            ],
+            "Brickset": [
+                "3033"
+            ],
+            "LDraw": [
+                "3033"
+            ],
+            "LEGO": [
+                "3033"
+            ]
+        },
+        "print_of": null
+    },
+    "3020": {
+        "part_num": "3020",
+        "name": "Plate 2 x 4",
+        "part_cat_id": 14,
+        "year_from": 1962,
+        "year_to": 2025,
+        "part_url": "https://rebrickable.com/parts/3020/plate-2-x-4/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/302026.jpg",
+        "prints": [],
+        "molds": [
+            "3020a"
+        ],
+        "alternates": [
+            "3709"
+        ],
+        "external_ids": {
+            "BrickLink": [
+                "3020"
+            ],
+            "BrickOwl": [
+                "80025"
+            ],
+            "Brickset": [
+                "3020",
+                "5584"
+            ],
+            "LDraw": [
+                "3020"
+            ],
+            "LEGO": [
+                "3020",
+                "5584"
+            ]
+        },
+        "print_of": null
+    },
+    "3032": {
+        "part_num": "3032",
+        "name": "Plate 4 x 6",
+        "part_cat_id": 14,
+        "year_from": 1969,
+        "year_to": 2025,
+        "part_url": "https://rebrickable.com/parts/3032/plate-4-x-6/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/303226.jpg",
+        "prints": [],
+        "molds": [],
+        "alternates": [],
+        "external_ids": {
+            "BrickLink": [
+                "3032"
+            ],
+            "BrickOwl": [
+                "514495"
+            ],
+            "Brickset": [
+                "3032"
+            ],
+            "LDraw": [
+                "3032"
+            ],
+            "LEGO": [
+                "3032"
+            ]
+        },
+        "print_of": null
+    },
+    "65509": {
+        "part_num": "65509",
+        "name": "Plate Special 2 x 4 with Groove and Two Center Studs (Jumper)",
+        "part_cat_id": 9,
+        "year_from": 2020,
+        "year_to": 2025,
+        "part_url": "https://rebrickable.com/parts/65509/plate-special-2-x-4-with-groove-and-two-center-studs-jumper/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6307616.jpg",
+        "prints": [],
+        "molds": [],
+        "alternates": [],
+        "external_ids": {
+            "BrickLink": [
+                "65509"
+            ],
+            "BrickOwl": [
+                "332142"
+            ],
+            "Brickset": [
+                "65509"
+            ],
+            "LDraw": [
+                "65509"
+            ],
+            "LEGO": [
+                "65509"
+            ]
+        },
+        "print_of": null
+    },
+    "3003": {
+        "part_num": "3003",
+        "name": "Brick 2 x 2",
+        "part_cat_id": 11,
+        "year_from": 1985,
+        "year_to": 2025,
+        "part_url": "https://rebrickable.com/parts/3003/brick-2-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300301.jpg",
+        "prints": [
+            "3003pr0053",
+            "3003pr0052",
+            "3003pr0001",
+            "3003pr0035",
+            "3003pr0175",
+            "3003pr0002",
+            "3003pr0054",
+            "3003pr0141",
+            "3003pr0140",
+            "3003pr0160",
+            "3003pr0055",
+            "3003pr0138",
+            "3003pr0057",
+            "3003pr0018",
+            "3003pr0146",
+            "3003pr0029",
+            "3003pr0171",
+            "3003pr0025",
+            "3003pr0024",
+            "3003pr0021",
+            "3003pr0010",
+            "3003pr0019",
+            "3003pr0020",
+            "3003pr0027",
+            "3003pr0043",
+            "3003pr0028",
+            "3003pr0030",
+            "3003pr0031",
+            "3003pr0033",
+            "3003pr0017",
+            "3003pr0015",
+            "3003pr0007",
+            "3003pr0049",
+            "3003pr0036",
+            "3003pr0047",
+            "3003pr0014",
+            "3003pr0050",
+            "3003pr0039",
+            "3003pr0016",
+            "3003pr0046",
+            "3003pr0026",
+            "3003pr0044",
+            "3003pr0013",
+            "3003pr0037",
+            "3003pr0009",
+            "3003pr0011",
+            "3003pr0022",
+            "3003pr0012",
+            "3003pr0023",
+            "3003pr0117",
+            "3003pr0116",
+            "3003pr0008",
+            "3003pr0034",
+            "3003pr0121",
+            "3003pr0137",
+            "3003pr0045",
+            "3003pr9998",
+            "3003pr0139",
+            "3003pr0048",
+            "3003pr0006",
+            "3003pr9997",
+            "3003pr0042",
+            "3003pr9999",
+            "3003pr1002",
+            "3003pr0119",
+            "3003pr0051",
+            "3003pr0156",
+            "3003pr0155",
+            "3003pr0038",
+            "3003pr0032",
+            "3003pr0040",
+            "3003pr0003",
+            "3003pr0136",
+            "3003pr0103",
+            "3003pr0104",
+            "3003pr0005",
+            "3003pr0115",
+            "3003pr0173",
+            "3003pr0125",
+            "3003pr0142",
+            "3003pr0144",
+            "3003pr0145",
+            "3003pr0147",
+            "3003pr0158",
+            "3003pr0164",
+            "3003pr0004"
+        ],
+        "molds": [
+            "3003a",
+            "6223",
+            "3003b"
+        ],
+        "alternates": [
+            "3003c",
+            "3003d",
+            "3003b",
+            "3003e"
+        ],
+        "external_ids": {
+            "BrickLink": [
+                "3003"
+            ],
+            "BrickOwl": [
+                "939628"
+            ],
+            "Brickset": [
+                "15591",
+                "3003",
+                "62404"
+            ],
+            "LDraw": [
+                "3003"
+            ],
+            "LEGO": [
+                "15591",
+                "3003",
+                "62404"
+            ]
+        },
+        "print_of": null
+    },
+    "3022": {
+        "part_num": "3022",
+        "name": "Plate 2 x 2",
+        "part_cat_id": 14,
+        "year_from": 1962,
+        "year_to": 2025,
+        "part_url": "https://rebrickable.com/parts/3022/plate-2-x-2/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/302226.jpg",
+        "prints": [],
+        "molds": [],
+        "alternates": [],
+        "external_ids": {
+            "BrickLink": [
+                "3022"
+            ],
+            "BrickOwl": [
+                "566026"
+            ],
+            "Brickset": [
+                "3022",
+                "94148"
+            ],
+            "LDraw": [
+                "3022",
+                "94148"
+            ],
+            "LEGO": [
+                "3022",
+                "94148"
+            ]
+        },
+        "print_of": null
+    },
+    "87580": {
+        "part_num": "87580",
+        "name": "Plate Special 2 x 2 with Groove and Center Stud (Jumper)",
+        "part_cat_id": 9,
+        "year_from": 2009,
+        "year_to": 2025,
+        "part_url": "https://rebrickable.com/parts/87580/plate-special-2-x-2-with-groove-and-center-stud-jumper/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4565322.jpg",
+        "prints": [
+            "87580pr0001",
+            "87580pr0002",
+            "87580pr0004"
+        ],
+        "molds": [],
+        "alternates": [],
+        "external_ids": {
+            "BrickLink": [
+                "87580"
+            ],
+            "BrickOwl": [
+                "374469"
+            ],
+            "Brickset": [
+                "23893",
+                "87580",
+                "92569"
+            ],
+            "LDraw": [
+                "87580"
+            ],
+            "LEGO": [
+                "23893",
+                "87580",
+                "92569"
+            ]
+        },
+        "print_of": null
+    },
+    "2357": {
+        "part_num": "2357",
+        "name": "Brick 2 x 2 Corner",
+        "part_cat_id": 11,
+        "year_from": 1987,
+        "year_to": 2025,
+        "part_url": "https://rebrickable.com/parts/2357/brick-2-x-2-corner/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/235701.jpg",
+        "prints": [],
+        "molds": [],
+        "alternates": [],
+        "external_ids": {
+            "BrickLink": [
+                "2357"
+            ],
+            "BrickOwl": [
+                "682375"
+            ],
+            "Brickset": [
+                "2357"
+            ],
+            "LDraw": [
+                "2357"
+            ],
+            "LEGO": [
+                "2357"
+            ]
+        },
+        "print_of": null
+    },
+    "3795": {
+        "part_num": "3795",
+        "name": "Plate 2 x 6",
+        "part_cat_id": 14,
+        "year_from": 1978,
+        "year_to": 2025,
+        "part_url": "https://rebrickable.com/parts/3795/plate-2-x-6/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/379526.jpg",
+        "prints": [],
+        "molds": [
+            "3795a"
+        ],
+        "alternates": [
+            "32001"
+        ],
+        "external_ids": {
+            "BrickLink": [
+                "3795"
+            ],
+            "BrickOwl": [
+                "735504"
+            ],
+            "Brickset": [
+                "3795"
+            ],
+            "LDraw": [
+                "3795"
+            ],
+            "LEGO": [
+                "3795"
+            ]
+        },
+        "print_of": null
+    },
+    "3001": {
+        "part_num": "3001",
+        "name": "Brick 2 x 4",
+        "part_cat_id": 11,
+        "year_from": 1979,
+        "year_to": 2025,
+        "part_url": "https://rebrickable.com/parts/3001/brick-2-x-4/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300121.jpg",
+        "prints": [
+            "3001pr0043",
+            "3001pr0009",
+            "3001pr0016",
+            "3001pr0002",
+            "3001pr0011",
+            "3001pr1042",
+            "3001pr0006",
+            "3001pr1015",
+            "3001pr0010",
+            "3001pr9982",
+            "3001pr9990",
+            "3001pr0033",
+            "3001pr9999",
+            "3001pr0038",
+            "3001pr0013",
+            "3001pr0041",
+            "3001pr0024",
+            "3001pr0028",
+            "3001pr0021",
+            "3001pr0029",
+            "3001pr0119",
+            "3001pr0031",
+            "3001pr0030",
+            "3001pr0040",
+            "3001pr0004",
+            "3001pr0019",
+            "3001pr0037",
+            "3001pr0012",
+            "3001pr0036",
+            "3001pr0027",
+            "3001pr0020",
+            "3001pr0014",
+            "3001pr0015",
+            "3001pr0008",
+            "3001pr0017",
+            "3001pr0042",
+            "3001pr0032",
+            "3001pr0026",
+            "3001pr0025",
+            "3001pr0034",
+            "3001pr0022",
+            "3001pr0044",
+            "3001pr1040",
+            "3001pr1038",
+            "3001pr1039",
+            "3001pr1037",
+            "3001pr1041",
+            "3001pr9991",
+            "3001pr1018",
+            "3001pr1005",
+            "3001pr1020",
+            "3001pr0003",
+            "3001pr1043",
+            "3001pr9992",
+            "3001pr9989",
+            "3001pr1051",
+            "3001pr9988",
+            "3001pr9987",
+            "3001pr9986",
+            "3001pr9985",
+            "3001pr9984",
+            "3001pr9983",
+            "3001pr9981",
+            "3001pr0046",
+            "3001pr0035",
+            "3001pr0023",
+            "3001pr0007",
+            "3001pr0039",
+            "3001pr0001",
+            "3001pr0018",
+            "3001pr0045"
+        ],
+        "molds": [
+            "3001a",
+            "30160",
+            "3556",
+            "3001d",
+            "3001c",
+            "3001b",
+            "3001e"
+        ],
+        "alternates": [
+            "39789",
+            "upn0041",
+            "upn0041a",
+            "upn0041b",
+            "upn0041e",
+            "upn0041d",
+            "upn0041c"
+        ],
+        "external_ids": {
+            "BrickLink": [
+                "3001"
+            ],
+            "BrickOwl": [
+                "771344"
+            ],
+            "Brickset": [
+                "15589",
+                "3001",
+                "54534",
+                "72841"
+            ],
+            "LDraw": [
+                "3001"
+            ],
+            "LEGO": [
+                "15589",
+                "3001",
+                "54534",
+                "72841"
+            ]
+        },
+        "print_of": null
+    },
+    "4032a": {
+        "part_num": "4032a",
+        "name": "Plate Round 2 x 2 with Axle Hole Type 1 (+ Opening)",
+        "part_cat_id": 21,
+        "year_from": 1980,
+        "year_to": 2025,
+        "part_url": "https://rebrickable.com/parts/4032a/plate-round-2-x-2-with-axle-hole-type-1-opening/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/403226.jpg",
+        "prints": [],
+        "molds": [
+            "4032b"
+        ],
+        "alternates": [],
+        "external_ids": {
+            "BrickLink": [
+                "4032"
+            ],
+            "BrickOwl": [
+                "680648"
+            ],
+            "Brickset": [
+                "4032"
+            ],
+            "LDraw": [
+                "4032a"
+            ],
+            "LEGO": [
+                "4032"
+            ],
+            "Peeron": [
+                "4032"
+            ]
+        },
+        "print_of": null
+    },
+    "3004pr0014": {
+        "part_num": "3004pr0014",
+        "name": "Brick 1 x 2 with Reddish Brown and Dark Brown Lines Print",
+        "part_cat_id": 11,
+        "year_from": 2014,
+        "year_to": 2025,
+        "part_url": "https://rebrickable.com/parts/3004pr0014/brick-1-x-2-with-reddish-brown-and-dark-brown-lines-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6097024.jpg",
+        "prints": [],
+        "molds": [],
+        "alternates": [],
+        "external_ids": {
+            "BrickLink": [
+                "3004pb123"
+            ],
+            "BrickOwl": [
+                "85994"
+            ],
+            "Brickset": [
+                "19178"
+            ],
+            "LDraw": [
+                "3004px0"
+            ],
+            "LEGO": [
+                "19178"
+            ]
+        },
+        "print_of": "3004"
+    },
+    "3068bpr0236": {
+        "part_num": "3068bpr0236",
+        "name": "Tile 2 x 2 with Dark Brown Minecraft Grid Print (Crafting Table)",
+        "part_cat_id": 19,
+        "year_from": 2014,
+        "year_to": 2025,
+        "part_url": "https://rebrickable.com/parts/3068bpr0236/tile-2-x-2-with-dark-brown-minecraft-grid-print-crafting-table/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6097003.jpg",
+        "prints": [],
+        "molds": [],
+        "alternates": [],
+        "external_ids": {
+            "BrickLink": [
+                "3068pb0893"
+            ],
+            "BrickOwl": [
+                "380112"
+            ],
+            "Brickset": [
+                "19177"
+            ],
+            "LDraw": [
+                "3068bpx1"
+            ],
+            "LEGO": [
+                "19177"
+            ]
+        },
+        "print_of": "3068b"
+    },
+    "3031": {
+        "part_num": "3031",
+        "name": "Plate 4 x 4",
+        "part_cat_id": 14,
+        "year_from": 1970,
+        "year_to": 2025,
+        "part_url": "https://rebrickable.com/parts/3031/plate-4-x-4/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/303126.jpg",
+        "prints": [],
+        "molds": [],
+        "alternates": [],
+        "external_ids": {
+            "BrickLink": [
+                "3031"
+            ],
+            "BrickOwl": [
+                "163746"
+            ],
+            "Brickset": [
+                "3031"
+            ],
+            "LDraw": [
+                "3031"
+            ],
+            "LEGO": [
+                "3031"
+            ]
+        },
+        "print_of": null
+    },
+    "3004pr0036": {
+        "part_num": "3004pr0036",
+        "name": "Brick 1 x 2 with Black 'TNT' Pixelated Print",
+        "part_cat_id": 11,
+        "year_from": 2014,
+        "year_to": 2025,
+        "part_url": "https://rebrickable.com/parts/3004pr0036/brick-1-x-2-with-black-tnt-pixelated-print/",
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6097028.jpg",
+        "prints": [],
+        "molds": [],
+        "alternates": [],
+        "external_ids": {
+            "BrickLink": [
+                "3004pb122"
+            ],
+            "BrickOwl": [
+                "474828"
+            ],
+            "Brickset": [
+                "19180"
+            ],
+            "LDraw": [
+                "3004pt7"
+            ],
+            "LEGO": [
+                "19180"
+            ]
+        },
+        "print_of": "3004"
+    }
+}
